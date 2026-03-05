@@ -163,7 +163,7 @@ Current screenshots are stored in `demo/`:
 ![Email Output](demo/Email.png)
 
 6. Skills output  
-![Skills Output](demo/skills.png)
+![Skills Output](demo/Skills.png)
 
 ## Troubleshooting
 
